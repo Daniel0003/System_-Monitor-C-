@@ -1,2 +1,2 @@
-# System_-Monitor-C-
+# System-Monitor-C#
 Windows based Diagnostic software 
